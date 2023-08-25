@@ -1,5 +1,5 @@
 ## Bienes Raíces v1.0.0
-#### (Versión Código Espagueti con CRUD)
+#### (Proyecto con CRUD y en Versión Código Espagueti)
 
 Proyecto Bienes Raíces: Página para promocionar Bienes Raíces. Este proyecto forma parte de las prácticas basadas en proyectos reales del curso de Desarrollo Web Completo.
 El proyecto está desarrollado en versión: **código espagueti**.
