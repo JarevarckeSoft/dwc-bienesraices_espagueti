@@ -18,3 +18,8 @@ Para este proyecto se utilizó la compilación de los archivos mediante:
 * Preprocesador de CSS: SASS
 
 El diseño puede ser responsivo para diferentes dispositivos, sin embargo, aún hay que terminar de adaptar a dispositivos móviles: celulares.
+
+
+### Instalar:
+
+Previamente se debe instalar _Node.js_ descargando el ejecutable de la página oficial y se debe instalar **_gulp_**, sass y sus agregados como dependencias de desarrollo mediante el comando **_npm install_**, si es que se quiere modificar y compilar los archivos *.scss de SASS y si se requiere convertir archivos de imágenes en formato png o jpg a formatos ligeros como avif o webp.
