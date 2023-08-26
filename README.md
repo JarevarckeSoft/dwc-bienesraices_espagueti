@@ -17,5 +17,4 @@ Para este proyecto se utilizó la compilación de los archivos mediante:
 * Gulp
 * Preprocesador de CSS: SASS
 
-El diseño es responsivo para diferentes dispositivos.
-Ver proyecto parcialmente desplegado en: 
+El diseño puede ser responsivo para diferentes dispositivos, sin embargo, aún hay que terminar de adaptar a dispositivos móviles: celulares.
