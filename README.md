@@ -1,7 +1,7 @@
-## DWC-BienesRaíces
+## DWC-BienesRaíces-espagueti
 #### (Proyecto con CRUD y en Versión Código Espagueti)
 
-Proyecto Bienes Raíces: Página para promocionar Bienes Raíces. Este proyecto forma parte de las prácticas basadas en proyectos reales del curso de **_Desarrollo Web Completo_** creado por Juan De la torre para la plataforma de Udemy. El proyecto está desarrollado en versión: **código espagueti**.
+Proyecto **BienesRaíces** _(espagueti)_: Página para promocionar Bienes Raíces. Este proyecto forma parte de las prácticas basadas en proyectos reales del curso de **_Desarrollo Web Completo_** creado por Juan De la torre para la plataforma de Udemy. El proyecto está desarrollado en versión: **código espagueti**.
 
 Se implementa en el FrontEnd:
 * HTML5
