@@ -8,10 +8,10 @@
                 <a href="/contacto.php">Contacto</a>
             </nav>
         </div>
-        <p class="copyright">Todos los Derechos Reservados <?php echo date('Y'); ?> &copy;</p>
+        <p class="copyright">&copy; <?php echo date('Y'); ?> BienesRaíces. Todos los derechos reservados.</p>
     </footer>
 
     <script src="/build/js/bundle.min.js"></script>
-</body>
+    </body>
 
-</html>
+    </html>
