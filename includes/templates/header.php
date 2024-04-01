@@ -6,7 +6,7 @@ if (!isset($_SESSION)) {
 $auth = $_SESSION['login'] ?? false;
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
