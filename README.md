@@ -1,4 +1,4 @@
-## DWC-BienesRaíces
+## DWC-BienesRaíces (Spaguetti Code)
 #### (Proyecto con CRUD y en Versión Código Espagueti)
 
 Proyecto **BienesRaíces**: Página para promocionar Bienes Raíces. Este proyecto forma parte de las prácticas basadas en proyectos reales del curso de **_Desarrollo Web Completo_**. El proyecto está desarrollado en versión: **código espagueti**.
@@ -9,8 +9,8 @@ Se implementa en el FrontEnd:
 * JavaScript
 
 Y para el BackEnd con CRUD:
-* PHP8
-* MySQL8.
+* PHP8 (Funciones)
+* MySQL8 (mysqli_connect)
 
 Para este proyecto se utilizó la compilación de los archivos mediante:
 * Gulp
