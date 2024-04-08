@@ -10,6 +10,12 @@
         @content;
     }
 }
+
+@mixin tabletL {
+    @media (min-width: #{$tabletL}) {
+        @content;
+    }
+}
   
 @mixin desktop {
     @media (min-width: #{$desktop}) {

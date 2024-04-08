@@ -1,5 +1,11 @@
 @include tablet {
     .contenedor-anuncios {
+        @include grid (2, 2rem);
+    }
+}
+
+@include tabletL {
+    .contenedor-anuncios {
         @include grid (3, 2rem);
     }
 }
@@ -8,6 +14,13 @@
     background-color: lighten($gris, 5);
     border: 1px solid darken($gris, 10);
     margin-bottom: 2rem;
+
+    @include tablet {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex: 1;
+    }
     
     .contenido-anuncio {
         padding: 2rem;
